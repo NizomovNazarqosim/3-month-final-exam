@@ -1,0 +1,55 @@
+.site__wrapper{
+    background-color: #FFD845;
+    height: 100%;
+}
+.header__form{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.logo{
+    width: 610px;
+    height: 225px;
+}
+.search-icon{
+    background: transparent;
+    margin-left: 170px;
+    margin-top: 15px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+}
+.form-select-two , .btn , .form-select , .search-input{
+    border-radius: 15px;
+    width: 200px;
+    height: 50px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    text-align: center;
+}
+.div__bottom{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+.heart__icon{
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}
+.wrapper__div{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: middle;
+}
+.pokemon__type{
+    margin-left: 20px;
+}
+  
